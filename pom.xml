@@ -98,8 +98,8 @@
         </plugin>
         <configuration>
           <includes>
-            <include >**/CRMLogin.java.java
-            </include>
+            <include >**/CRMLogin.java</include>
+            
           </includes>
         </configuration>
         <plugin>
