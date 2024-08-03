@@ -96,10 +96,8 @@
           <artifactId>maven-surefire-plugin</artifactId>
           <version>2.22.1</version>
         </plugin>
-        
           <includes>
-            <include >**/CRMLogin.java</include>
-            
+            <include >**/CRMLogin.java</include>   
           </includes>
         
         <plugin>
