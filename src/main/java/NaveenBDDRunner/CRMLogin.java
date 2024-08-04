@@ -7,7 +7,7 @@ import io.cucumber.testng.CucumberOptions;
 		features="src/main/java/Features/NaveenBDDCRM.feature", glue="NaveenBDDStep",
 		
 		monochrome=true,plugin= {"html:target/NaveenBDDStep.html","pretty"})
-public class CRMLogin extends AbstractTestNGCucumberTests{
+public class TestCRMLogin extends AbstractTestNGCucumberTests{
 
 }
 
